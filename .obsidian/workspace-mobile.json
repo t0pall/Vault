@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без назfhfghfgвания.md",
+                "file": "Коммиты git.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,8 +72,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "2f8bba73b4d81aa1",
@@ -85,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Без назfhfghfgвания.md",
+            "file": "Коммиты git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Без назfhfghfgвания.md",
+            "file": "Коммиты git.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Без назfhfghfgвания.md"
+            "file": "Коммиты git.md"
           }
         }
       }
@@ -133,7 +132,8 @@
   },
   "active": "168b763e0c2ab383",
   "lastOpenFiles": [
-    "Без назfhfghfgвания.md",
+    "запомнить.md",
+    "Коммиты git.md",
     "Без названия.md"
   ]
 }
