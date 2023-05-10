@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19757b6f3960421e",
+        "id": "305b97d62171aaef",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3f3be648fa4b13",
+            "id": "c73349cdb9654370",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ff3f3be648fa4b13",
+  "active": "c73349cdb9654370",
   "lastOpenFiles": [
+    "История изменений git.md",
     "запомнить.md",
     "Коммиты git.md",
     "Без назfhfghfgвания.md"
