@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "305b97d62171aaef",
+        "id": "d05f90bfaffee58e",
         "type": "tabs",
         "children": [
           {
-            "id": "c73349cdb9654370",
+            "id": "1e63b84f99516542",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Поиск работы/Решение типовых заданий из интервью.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Поиск работы/Решение типовых заданий из интервью.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Поиск работы/Решение типовых заданий из интервью.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Поиск работы/Решение типовых заданий из интервью.md"
+              }
             }
           }
         ]
@@ -138,11 +146,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c73349cdb9654370",
+  "active": "1e63b84f99516542",
   "lastOpenFiles": [
-    "История изменений git.md",
+    "Поиск работы/Решение типовых заданий из интервью.md",
+    "Поиск работы/Запрос обратной связи.md",
+    "Поиск работы/Ежедневное обновление резюме.md",
+    "Git/Коммиты git.md",
+    "Git/История изменений git.md",
+    "Git",
+    "Поиск работы",
     "запомнить.md",
-    "Коммиты git.md",
     "Без назfhfghfgвания.md"
   ]
 }
